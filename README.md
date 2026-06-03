@@ -7,12 +7,23 @@
 <br/>
 
 
-🌱 Me llamo Viviana
+🌱 Ing. Catastral y Geodesta de la Universidad Distrital FJC, Master en Análisis de datos UNIR, España. 
+
+He trabajado en lenguajes de programación como Python(Django), Javascript(NodeJs) y Go para el desarrollo de APIS REST y gRPC en el sector público y privado. Desarrollo de aplicaciones geoespaciales con Angular/Leaflet para la gestión de Catastro Multipropósito(ACC) y seguimiento de operaciones en campo (Profline)
+
+Cómo activista social he participado en grupos que promueve el Software Libre y Comunidades Sociales que propenden por el cuidado del medio ambiente.
 
 
 <br/>
 
 
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+
+ 
+ 
+<br>
 
  
  
