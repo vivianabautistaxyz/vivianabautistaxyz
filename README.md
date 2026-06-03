@@ -25,20 +25,16 @@ Cómo activista social he participado en grupos que promueve el Software Libre y
   
 </p>
 
-<br>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
-<br>
 
 
-
+<h3 align="left">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
+</h3>
  
-<br>
 
-<p align="center"><!-----Social Accounts------>
+<p align="left"><!-----Social Accounts------>
 
-<p align="center">
+<p align="left">
  <a href="">
  <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
  </a>
