@@ -35,12 +35,9 @@ Cómo activista social he participado en grupos que promueve el Software Libre y
 <p align="left"><!-----Social Accounts------>
 
 <p align="left">
- <a href="">
- <img border="0" alt="Alamin's Portfolio" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/40/000000/external-resume-business-recruitment-itim2101-lineal-color-itim2101.png">
- </a>
-
- <a href="https://www.linkedin.com/in/vivianabautistaxyz">
- 
+ <a href="" target="_blank"> 
+     
+</a> <a href="https://www.linkedin.com/in/vivianabautistaxyz">
  <img border="0" alt="Viviana LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
@@ -54,5 +51,7 @@ Cómo activista social he participado en grupos que promueve el Software Libre y
 </p>
 
 <br>
+
+icons: https://www.flaticon.com/search
 
 
