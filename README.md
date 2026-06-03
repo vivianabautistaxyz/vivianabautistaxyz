@@ -16,16 +16,23 @@ Cómo activista social he participado en grupos que promueve el Software Libre y
 
 <br/>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="40" height="40"/> </a>            
+    <a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>                 
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  
+</p>
 
 <br>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
- 
- 
 <br>
 
- 
+
+
  
 <br>
 
@@ -51,3 +58,5 @@ Cómo activista social he participado en grupos que promueve el Software Libre y
 </p>
 
 <br>
+
+
