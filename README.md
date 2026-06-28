@@ -14,6 +14,8 @@ He trabajado en lenguajes de programación como Python(Django), Javascript(NodeJ
 Cómo activista social he participado en grupos que promueve el Software Libre y Comunidades Sociales que propenden por el cuidado del medio ambiente.
 
 
+Página Web http://vivianabautista.xyz/ 
+
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
