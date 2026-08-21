@@ -1,11 +1,5 @@
 ## Holis 👋 Me llamo Laydi Viviana
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
-</div>
-
-<br/>
-
 
 🌱 Ing. Catastral y Geodesta de la Universidad Distrital FJC, Master en Análisis de datos UNIR, España. 
 
@@ -43,6 +37,9 @@ Página Web http://vivianabautista.xyz/
  <img border="0" alt="Viviana LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
  </a>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
+</div>
 
 
  <a href="https://www.instagram.com/xyz.informatica/">
